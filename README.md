@@ -1,4 +1,6 @@
 # Delta-Modulation
+## Soniya D
+## 212223060268
 ## Aim
 To perform Delta Modulation for a given signal using python.
 ## Tools required
